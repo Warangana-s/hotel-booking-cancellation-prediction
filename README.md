@@ -14,8 +14,6 @@ This project explores how machine learning can help hotels identify bookings tha
 - Problem type: Supervised Binary Classification
 - Dataset: [Hotel Booking Demand – Kaggle](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand)
 
-The dataset is not included in this repository. Download it separately and place the CSV file in the project directory as `hotel_bookings.csv`.
-
 ## Machine Learning Models
 
 We compared the following classification models:
